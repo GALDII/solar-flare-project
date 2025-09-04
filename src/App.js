@@ -6,7 +6,8 @@ import Upload from "./pages/Upload";
 import About from "./pages/About";
 
 // Automatically use HashRouter in production (GitHub Pages), BrowserRouter locally
-const RouterComponent = process.env.NODE_ENV === "production" ? HashRouter : BrowserRouter;
+const RouterComponent =
+  process.env.NODE_ENV === "production" ? HashRouter : BrowserRouter;
 
 function App() {
   return (
@@ -15,7 +16,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/upload" element={<Upload />} />
-        <Route path="/about" element={<About />} />
+        <Route path="/about" element={<About />} />s
       </Routes>
     </RouterComponent>
   );

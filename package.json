@@ -1,8 +1,8 @@
 {
-  "name": "dripp",
+  "name": "dripp-master",
   "version": "0.1.0",
+  "homepage": "https://galdii.github.io/solar-flare-project",
   "private": true,
-  "homepage": "https://GALDII.github.io/dripp",
   "dependencies": {
     "@craco/craco": "^7.1.0",
     "@tensorflow/tfjs": "^4.22.0",
