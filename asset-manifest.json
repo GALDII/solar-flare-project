@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/dripp/static/css/main.af197f51.css",
-    "main.js": "/dripp/static/js/main.2f1bc4e3.js",
-    "static/js/453.ba08c2ca.chunk.js": "/dripp/static/js/453.ba08c2ca.chunk.js",
-    "index.html": "/dripp/index.html",
-    "main.af197f51.css.map": "/dripp/static/css/main.af197f51.css.map",
-    "main.2f1bc4e3.js.map": "/dripp/static/js/main.2f1bc4e3.js.map",
-    "453.ba08c2ca.chunk.js.map": "/dripp/static/js/453.ba08c2ca.chunk.js.map"
+    "main.css": "/solar-flare-project/static/css/main.af197f51.css",
+    "main.js": "/solar-flare-project/static/js/main.fce2d007.js",
+    "static/js/453.a67d3b77.chunk.js": "/solar-flare-project/static/js/453.a67d3b77.chunk.js",
+    "index.html": "/solar-flare-project/index.html",
+    "main.af197f51.css.map": "/solar-flare-project/static/css/main.af197f51.css.map",
+    "main.fce2d007.js.map": "/solar-flare-project/static/js/main.fce2d007.js.map",
+    "453.a67d3b77.chunk.js.map": "/solar-flare-project/static/js/453.a67d3b77.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.af197f51.css",
-    "static/js/main.2f1bc4e3.js"
+    "static/js/main.fce2d007.js"
   ]
 }
